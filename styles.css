@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue; /* Sets the background color to light blue */
+  color: navy; /* Sets the text color to navy */
+  font-family: Arial, sans-serif; /* Changes the font to Arial or a sans-serif font */
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px; /* Adjusts the size of the heading text */
+}
